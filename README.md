@@ -22,7 +22,7 @@ Screenshots
     <img src="screenshots/Screenshot_20201125_200753_com.example.gameon.jpg" width="300px" height="600px"</img> 
 </div>
 <div align="center">
-    <img src="screenshots/Screenshot_20201125_204805_com.example.gameon.jpg" width="300px" height="600px"</img> 
+    <img src="screenshots/Screenshot_20201125_225640_com.example.gameon.jpg" width="300px" height="600px"</img> 
 </div>
 <div align="center">
     <img src="screenshots/Screenshot_20201125_205630_com.example.gameon.jpg" width="300px" height="600px"</img> 
