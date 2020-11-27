@@ -31,6 +31,9 @@ Screenshots
     <img src="/screenshots/Screenshot_20201125_215200_com.example.gameon.jpg" width="300px" height="600px"</img> 
 </div>
 <div align="center">
+    <img src="/screenshots/Screenshot_20201125_215347_com.example.gameon.jpg" width="300px" height="600px"</img> 
+</div>
+<div align="center">
     <img src="screenshots/Screenshot_20201125_205455_com.example.gameon.jpg" width="300px" height="600px"</img> 
 </div>
 <div align="center">
