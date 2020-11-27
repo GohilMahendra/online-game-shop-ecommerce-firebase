@@ -13,6 +13,9 @@ How to use it
 
 Screenshots
 
+<div align="center">
+    <img src="screenshots/Screenshot_20201125_200753_com.example.gameon.jpg" width="400px"</img> 
+</div>
 ![ScreenShot](https://github.com/GohilMahendra/online-game-shop-ecommerce-firebase/blob/main/screenshots/Screenshot_20201125_200753_com.example.gameon.jpg)
 
 
