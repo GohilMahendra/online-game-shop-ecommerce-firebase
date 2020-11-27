@@ -13,7 +13,7 @@ How to use it
 
 Screenshots
 
-![ScreenShot](https://github.com/GohilMahendra/online-game-shop-ecommerce-firebase/main/screenshots/Screenshot_20201125_200753_com.example.gameon.jpg)
+![ScreenShot](https://github.com/GohilMahendra/online-game-shop-ecommerce-firebase/blob/main/screenshots/Screenshot_20201125_200753_com.example.gameon.jpg)
 
 
 
