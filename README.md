@@ -12,5 +12,9 @@ How to use it
 
 
 
+<p align="center">
+  <img src="
+![Screenshot_20201125_205248_com example gameon](https://user-images.githubusercontent.com/66897377/100427181-120eaf00-30b8-11eb-88f2-b6f26f841cfe.jpg)" width="350" title="hover text">
 
-![Screenshot_20201125_205248_com example gameon](https://user-images.githubusercontent.com/66897377/100427181-120eaf00-30b8-11eb-88f2-b6f26f841cfe.jpg)
+
+
