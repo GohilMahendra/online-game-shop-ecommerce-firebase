@@ -1,0 +1,137 @@
+{
+  
+  "Products" : {
+    "Gta v" : {
+      "str_cat" : "Action",
+      "str_date" : "25/05/2019",
+      "str_imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4LvgWdXswPTabGwj3WKUm2qDtiBHUbE5kVQ&usqp=CAU",
+      "str_imageUrl2" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4LvgWdXswPTabGwj3WKUm2qDtiBHUbE5kVQ&usqp=CAU",
+      "str_imageUrl3" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4LvgWdXswPTabGwj3WKUm2qDtiBHUbE5kVQ&usqp=CAU",
+      "str_imageUrl4" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4LvgWdXswPTabGwj3WKUm2qDtiBHUbE5kVQ&usqp=CAU",
+      "str_pdisc" : "59",
+      "str_pname" : "Gta v",
+      "str_pprice" : "2500",
+      "str_stock" : "64",
+      "str_subCat" : "Adventure"
+    },
+    "Sims 4" : {
+      "str_cat" : "Simulation",
+      "str_date" : "12/11/2018",
+      "str_imageUrl" : "https://image.api.playstation.com/vulcan/img/cfn/11307vxcNurt1R5ewUN-O-CYjW02hotrdUT52DLjiijBTeQoBiAEMp5Gd6CIsk7X8YE1DpsxTA57K6ZsSXhz8uEAsQIE7FoX.png",
+      "str_imageUrl2" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTAMuHcMujQDJD-vQ4flDcIcXTcOXUK_1LqQ&usqp=CAU",
+      "str_imageUrl3" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiqT0LXOmnEm4yRPzgG-2DlXT6txkb-8DiMA&usqp=CAU",
+      "str_imageUrl4" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvYXguZA3HepHH-dCkL3yZuyplVdAcxTMrIw&usqp=CAU",
+      "str_pdisc" : "10",
+      "str_pname" : "Sims 4",
+      "str_pprice" : "1200",
+      "str_stock" : "114",
+      "str_subCat" : "Role Player"
+    },
+    "Street Fighter 5" : {
+      "str_cat" : "Arcade",
+      "str_date" : "14/02/2020",
+      "str_imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSywwW48zROLDWty21oKLS47pncOigPMupfTQ&usqp=CAU",
+      "str_imageUrl2" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLDEv6skCDiMmXcqaNgYJfXsqZvkZpDxA29w&usqp=CAU",
+      "str_imageUrl3" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGp7-033pMZTE_bpSlWNbkd9ONCpE72t4--Q&usqp=CAU",
+      "str_imageUrl4" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0znQnBqhh-bvhePxFZuIny9j2EvURmcCNFA&usqp=CAU",
+      "str_pdisc" : "5",
+      "str_pname" : "Street Fighter 5",
+      "str_pprice" : "2500",
+      "str_stock" : "50",
+      "str_subCat" : "Fight"
+    },
+    "Tekken 7" : {
+      "str_cat" : "Action",
+      "str_date" : "18/03/2015",
+      "str_imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAiPbFFQicOxHs4HH9A6GvEI_uLsvrbdWSBQ&usqp=CAU",
+      "str_imageUrl2" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqk2_gjHcU_xy6tY0X62dgz7o0pLqoXPuwEw&usqp=CAU",
+      "str_imageUrl3" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhnUczJ3wfLOcamtAWDxlKyS2u0Vg-yks6ng&usqp=CAU",
+      "str_imageUrl4" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9sxuzJPFCmyWRdxPUeWzArp6lmOyeUNxzA&usqp=CAU",
+      "str_pdisc" : "15",
+      "str_pname" : "Tekken 7",
+      "str_pprice" : "350",
+      "str_stock" : "23",
+      "str_subCat" : "Fight"
+    },
+    "Witcher 3" : {
+      "str_cat" : "Action",
+      "str_date" : "12/10/2015",
+      "str_imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-jkRKX8sbg6GawtymwpdkvbMqEjjHR39A&usqp=CAU",
+      "str_imageUrl2" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg5Cv9-w5Hy3kA_Xqhx1Zb48KXEeUghDzwQg&usqp=CAU",
+      "str_imageUrl3" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDewuaJv98UVtof7EeSe7jiK_lnHrg4dG-Tg&usqp=CAU",
+      "str_imageUrl4" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWS2vk_nBSzzvf0rVaFtGS38uwxWq_9y7w-Q&usqp=CAU",
+      "str_pdisc" : "30",
+      "str_pname" : "Witcher 3",
+      "str_pprice" : "3500",
+      "str_stock" : "293",
+      "str_subCat" : "Role Playing"
+    },
+    "euro truck simulator 2" : {
+      "str_cat" : "Racing",
+      "str_date" : "12/12/2016",
+      "str_imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1mfLMfIQp5xaYH5NTgHZZcgfMNO_xLlMWLQ&usqp=CAU",
+      "str_imageUrl2" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhWAt92lrG47oemuDGFnoy85gx9_RkVHtmA&usqp=CAU",
+      "str_imageUrl3" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgyOckhwnYdesOhv4s9jKdUxecp2ivl5jKSA&usqp=CAU",
+      "str_imageUrl4" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShdTsRSHzPKKCfQQ2uGzfqLwvujhjruLkeXw&usqp=CAU",
+      "str_pdisc" : "25",
+      "str_pname" : "euro truck simulator 2",
+      "str_pprice" : "2500",
+      "str_stock" : "195",
+      "str_subCat" : "Simulation"
+    },
+    "fifa 16" : {
+      "str_cat" : "Sports",
+      "str_date" : "12/04/2016",
+      "str_imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhluZpNzEuV23LZFIDvomnL01d0zvrAUpA0A&usqp=CAU",
+      "str_imageUrl2" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoym9TRIar7c0tsoDEJ3Qsxp6omRXRDqzfg&usqp=CAU",
+      "str_imageUrl3" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNCDQ0Drg7joT-SeODImJdXO3IhEi1KKgeHA&usqp=CAU",
+      "str_imageUrl4" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-a2bK5irc4KSqqShUhowgf2QldJxS1wH7w&usqp=CAU",
+      "str_pdisc" : "25",
+      "str_pname" : "fifa 16",
+      "str_pprice" : "3500",
+      "str_stock" : "249",
+      "str_subCat" : "multiplayer"
+    },
+    "ghost of tsusima" : {
+      "str_cat" : "Action",
+      "str_date" : "05/04/2020",
+      "str_imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3TWrb13N3Qd5BELklUMvtNps6ynTJL8X1Wg&usqp=CAU",
+      "str_imageUrl2" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5w_1_J3FabWtchcP55qb73LWMZqlJZnXZg&usqp=CAU",
+      "str_imageUrl3" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ov3vgkv0Aahj8z2JrjQ7RLMBvgASWSakMA&usqp=CAU",
+      "str_imageUrl4" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY6rZ_jmqNMaYrfSOJgLTbejVJ4XCJc2hlTA&usqp=CAU",
+      "str_pdisc" : "10",
+      "str_pname" : "ghost of tsusima",
+      "str_pprice" : "3500",
+      "str_stock" : "50",
+      "str_subCat" : "fight"
+    },
+    "nfs pro street" : {
+      "str_cat" : "Racing",
+      "str_date" : "12/05/2019",
+      "str_imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmlsylTPAGnJpxHiOl5FvOYmtEwiPHshvL8g&usqp=CAU",
+      "str_imageUrl2" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCC8jJ6J6_QXd3JKPhG6H36B0_bqOij751Mw&usqp=CAU",
+      "str_imageUrl3" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OKl5l0wU3sq-qJk37Qz12541aQ7kc13M_g&usqp=CAU",
+      "str_imageUrl4" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUf-Ptra8D_9bPjjuUfiPuq7D-5aB4X5HW4A&usqp=CAU",
+      "str_pdisc" : "25",
+      "str_pname" : "nfs pro street",
+      "str_pprice" : "800",
+      "str_stock" : "30",
+      "str_subCat" : "multiplayer"
+    },
+    "pubg" : {
+      "str_cat" : "Action",
+      "str_date" : "22/10/2019",
+      "str_imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeYOo7cpPIJQiboXSUnv9reUpLcxZz6dRB1w&usqp=CAU",
+      "str_imageUrl2" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85L30bK4x39vyKvwLIw1IJ3yqOY_fRUZb-Q&usqp=CAU",
+      "str_imageUrl3" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcqULhlKtlDaGK9JQHff062H3ZXw4T19UAGw&usqp=CAU",
+      "str_imageUrl4" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64KWTQ1MPbxVGTNbroZUciGULDgDnaBXJag&usqp=CAU",
+      "str_pdisc" : "27",
+      "str_pname" : "pubg",
+      "str_pprice" : "3000",
+      "str_stock" : "15",
+      "str_subCat" : "Multiplayer"
+    },
+    "str_stock" : "197"
+  }
+  }
+}
