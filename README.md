@@ -4,10 +4,15 @@ This is basic ecommerce android app which use firebase real time database to sho
 How to use it
 
 1)create new androidx application with same name in android studio
+
 2)download all gradle file in project stated in requirement-gradle.txt
+
 3)change build.gralde(modeule:projectname) like requiremnet-gradle2.txt
+
 4)Add your google-services.json file in project->app folder
+
 5)open real time database and export games.json file given in the project
+
 6)change yourapp->src with given app->src
 
 
